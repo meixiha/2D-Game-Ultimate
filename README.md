@@ -3,7 +3,7 @@
 
 开发者网址：https://www.acemxi.com/
 
-关于网址：https://www.acemxi.com/index.php/archives/18/
+了解更多网址：https://www.acemxi.com/index.php/archives/18/
 <img width="1440" alt="Screen Shot 2022-09-20 at 11 46 50 am" src="https://user-images.githubusercontent.com/89437157/191149384-e85c3dd4-eaec-4371-8b4b-016e3c6e5e6b.png">
 
 游戏展示
