@@ -1,5 +1,5 @@
 # 2D-Game-Ultimate
-这下面的三个文件要一起下载来合成一个文件，可以使用“360压缩”
+这下面的三个文件要一起下载来合成一个文件，可以使用“360压缩”来合成
 <img width="1440" alt="Screen Shot 2022-09-20 at 11 46 50 am" src="https://user-images.githubusercontent.com/89437157/191149384-e85c3dd4-eaec-4371-8b4b-016e3c6e5e6b.png">
 
 游戏展示
